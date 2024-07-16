@@ -1,18 +1,18 @@
 # UnidadDos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
 
-## Development server
+## DServidor de desarrollador
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Ejecuta `ng serve --open` para levantar el servidor. Navega a `http://localhost:4200/` si no se abre automaticamente. La aplicación automáticamente se recargará si se hace cualquo+ier cambio en el archivo fuente.
 
-## Code scaffolding
+## Creación de nuevos componentes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ejecuta `ng g c componentes/nombre-componente` para generar un nuevo componente, donde "componentes" es el nombre de la carpeta en la cual se van a crear (puede tener cualquier nombre, se crea con este comando).
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Ehecuta `ng build` para construir el proyecto. Los archivos generados se guardarán en el directorio `dist/`.
 
 ## Running unit tests
 
